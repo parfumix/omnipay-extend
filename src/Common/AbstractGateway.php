@@ -2,6 +2,6 @@
 
 namespace Omnipay\Extend\Common;
 
-class AbstractGateway extends \Omnipay\Common\AbstractGateway {
+abstract class AbstractGateway extends \Omnipay\Common\AbstractGateway {
 
 }
